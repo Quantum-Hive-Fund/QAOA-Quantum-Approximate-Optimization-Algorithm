@@ -1,4 +1,4 @@
-![](https://i.imgur.com/iXYr3VT.png)
+![](https://i.imgur.com/7i0vBGq.png)
 
 
 ## QAOA (Quantum Approximate Optimization Algorithm)
